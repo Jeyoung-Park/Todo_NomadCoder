@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Todo_NomadCoder</string>
+    <string name="DB_NAME">DB_TODO</string>
+</resources>
